@@ -26,7 +26,7 @@
   <hr>
     <img src="https://terrigen-cdn-dev.marvel.com/content/prod/1x/avengersendgame_lob_mas_mob_01.jpg">
   <br>
-    <h3>About this website: </h3>
+    <h3>About this website: </h3> 
     <p>You see 👆🏻those heroes above, right? This web page is all about them, <strong>The Avengers</strong></p>
     
   </body>
